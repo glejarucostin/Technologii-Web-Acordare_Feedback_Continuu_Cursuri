@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "firstName": "Maria",
+        "lastName": "Popescu",
+        "userName": "popescumaria@stud.ase.ro",
+        "password": "$2b$10$xBTDjhqBBGSQq58Cvf56e.7ZHFVx4jrR6hv/w.eyKW.y1TlXvs.j6",
+        "usertypeId": 1
+    },
+    {
+        "id": 2,
+        "firstName": "Ion",
+        "lastName": "Pop",
+        "userName": "popion@stud.ase.ro",
+        "password": "$2b$10$a8xVncQlifO4vDM1YoREXOQQkryYr94IiaxGj6g.soyAE.iKIzhwS",
+        "usertypeId": 1
+    },
+    {
+        "id": 3,
+        "firstName": "Ana",
+        "lastName": "Timofte",
+        "userName": "timofteana@ie.ase.ro",
+        "password": "$2b$10$wsp7ej8SkB3XFwLLOmTQp.NZjlIln3Qw/dDrQGqh54ZUqAkCQDOBW",
+        "usertypeId": 2
+    },
+    {
+        "id": 4,
+        "firstName": "Eugen",
+        "lastName": "Ciurea",
+        "userName": "ciureaeugen@ie.ase.ro",
+        "password": "$2b$10$vHvZ6QtNO6y/NNUxbxeNs.F1uEUpw5ytFmUi.1kQekwVrfAFS6UjG",
+        "usertypeId": 2
+    }
+]
