@@ -1,4 +1,4 @@
-<b>GRUPA 1085 - IANCU CRISTINA & GLEJARU COSTIN</b>
+
 
 <b>RUTE: </b>
 Toate rutele sunt prefixate cu http://localhost:3001/.
