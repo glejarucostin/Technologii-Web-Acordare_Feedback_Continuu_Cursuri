@@ -1,5 +1,5 @@
 
-<b> AUTORI: </b><b> GLEJARU COSTIN și CRISTINA IANCU</b>
+<b> AUTORI: </b><b> GLEJARU COSTIN și @cristina30iancu</b>
 
 <b>RUTE: </b>
 Toate rutele sunt prefixate cu http://localhost:3001/.
